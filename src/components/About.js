@@ -33,7 +33,7 @@ export default function About(props) {
     <div className="container" style={myStyle}>
         <h1>About</h1>
     <p className="my-2">
-     <p>Hello</p>
+     <p>Hello this simple web app is to standard text utilization</p>
     </p>
   </div>
   {/* <div className="container">
